@@ -1,0 +1,11 @@
+[33mcommit 4d6930315ee50465390f5fe311dabd65fbc42053[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: GunPKate <gun@builk.com>
+Date:   Fri Oct 14 19:45:09 2022 +0700
+
+    first commit
+
+[33mcommit 9773ac730f2c17d512fe5e8af48a39fbd4e17d5f[m
+Author: GunPKate <gun@builk.com>
+Date:   Thu Oct 13 21:45:17 2022 +0700
+
+    Initialize project using Create React App
