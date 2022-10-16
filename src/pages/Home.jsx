@@ -1,12 +1,12 @@
 // import react from 'react'
-import Chats from '../component/Chats';
+import Chat from '../component/Chat';
 import Sidebar from '../component/Sidebar';
 
 const Home = () =>{
     return <div className='home'>
         <div className="container">
               <Sidebar/>
-              <Chats/>
+              <Chat/>
         </div>
     </div>
 }
